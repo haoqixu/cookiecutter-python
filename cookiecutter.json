@@ -1,0 +1,6 @@
+{
+  "email": "test@example.com",
+  "gh_name": "test",
+  "project_name": "Python Boilerplate",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}"
+}

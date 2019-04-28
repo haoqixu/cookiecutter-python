@@ -21,8 +21,11 @@ _For more detail about cookiecutter, please refer to [Cookiecutter Document](htt
 
 ## Features
 
-* Pipenv
-* editorconfig
-* black
-* flake8 
-* pytest
+* Manage working environment with `pipenv`
+* Consistent coding styles with `editorconfig`
+* Format the code with `black`
+* Lint the code with `flake8` 
+* Testing setup with `pytest`
+
+## License
+Licensed under the terms of the MIT License (see the file LICENSE).
