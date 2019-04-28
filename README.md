@@ -27,5 +27,8 @@ _For more detail about cookiecutter, please refer to [Cookiecutter Document](htt
 * Lint the code with `flake8` 
 * Testing setup with `pytest`
 
+## References
+* [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage)
+
 ## License
 Licensed under the terms of the MIT License (see the file LICENSE).
