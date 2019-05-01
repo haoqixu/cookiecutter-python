@@ -29,6 +29,7 @@ _For more detail about cookiecutter, please refer to [Cookiecutter Document](htt
 
 ## References
 * [audreyr/cookiecutter-pypackage](https://github.com/audreyr/cookiecutter-pypackage)
+* [setup.py (for humans)](https://github.com/kennethreitz/setup.py)
 
 ## License
 Licensed under the terms of the MIT License (see the file LICENSE).
